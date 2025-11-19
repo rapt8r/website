@@ -17,12 +17,11 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 
 export default function AboutPage() {
   return (
-    <main className="min-h-screen bg-white">
+    <div className="min-h-screen bg-white">
       <AboutHero />
       <OurStory />
       <MissionSection />
       <TeamSection />
-    </main>
+    </div>
   );
 }
-
