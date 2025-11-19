@@ -1,0 +1,115 @@
+{
+  "About": {
+    "heroTitle": "Cultivating Excellence Since 1995",
+    "heroSubtitle": "From a small family orchard to a leading regional supplier, our journey is rooted in passion for the perfect apple.",
+    "storyTitle": "Our Story",
+    "storyContent": "Founded by the Fiutowski family, our orchard began with a simple vision: to grow the best-tasting apples in the region using traditional methods combined with modern care. Over the decades, we've expanded our varieties and sustainable practices, but our core commitment to quality remains unchanged. Every tree is tended to with personal attention, ensuring that the fruit you enjoy is as nature intended.",
+    "missionTitle": "Our Mission",
+    "missionContent": "To provide our community with fresh, healthy, and delicious fruit while preserving the environment for future generations through sustainable farming practices.",
+    "teamTitle": "Meet Our Team",
+    "teamSubtitle": "The people behind the harvest."
+  },
+  "Navigation": {
+    "about": "ABOUT US",
+    "contact": "CONTACT US",
+    "contactSales": "CONTACT SALES"
+  },
+  "LanguageSwitcher": {
+    "en": "English",
+    "pl": "Polish"
+  },
+  "Hero": {
+    "title": "Best taste, best quality",
+    "subtitle": "We are a team of passionate farmers who are dedicated to providing the best quality apples to our customers.",
+    "cta": "CONTACT SALES",
+    "keywords": "Fresh,Crisp,Juicy,Natural,Healthy,Delicious"
+  },
+  "WhyChooseUs": {
+    "title": "Why Choose Our Harvest?",
+    "subtitle": "We bring you the authentic taste of nature with a commitment to quality that you can trust.",
+    "features": {
+      "sustainable": {
+        "title": "Sustainable Farming",
+        "description": "We prioritize eco-friendly practices to protect our land and ensure healthy, natural growth for generations to come."
+      },
+      "quality": {
+        "title": "Premium Quality",
+        "description": "Every apple is hand-selected at the perfect moment of ripeness, ensuring exceptional taste and texture."
+      },
+      "direct": {
+        "title": "Direct from Orchard",
+        "description": "Our streamlined supply chain moves fruit from our trees to your hands quickly, preserving maximum freshness."
+      }
+    }
+  },
+  "Stats": {
+    "production": "tons produced every year",
+    "experience": "years of experience",
+    "clients": "happy clients",
+    "varieties": "apple varieties"
+  },
+  "ProductShowcase": {
+    "title": "Our Varieties",
+    "subtitle": "Explore our selection of premium apples, grown with care and harvested at peak ripeness.",
+    "products": {
+      "gala": {
+        "name": "Gala",
+        "description": "Sweet, aromatic, and crisp. Perfect for snacking and salads."
+      },
+      "golden-delicious": {
+        "name": "Golden Delicious",
+        "description": "Explosively crisp and juicy with a perfect balance of sweet and tart."
+      },
+      "ligol": {
+        "name": "Ligol",
+        "description": "Large, crunchy, with a distinctive sweet-sour taste. Excellent for storage."
+      }
+    }
+  },
+  "Contact": {
+    "title": "Get in Touch",
+    "subtitle": "We're here to help. Reach out to us for any inquiries about our apples, partnership opportunities, or general questions.",
+    "infoTitle": "Contact Information",
+    "phone": "Phone",
+    "workingHours": "Mon-Fri 8am-6pm",
+    "email": "Email",
+    "address": "Address",
+    "country": "Poland",
+    "businessHours": "Business Hours",
+    "businessHoursValue": "Monday - Friday: 8:00 AM - 6:00 PM<br>Saturday: 9:00 AM - 2:00 PM<br>Sunday: Closed",
+    "formTitle": "Send us a Message",
+    "formSubtitle": "Fill out the form below and we'll get back to you as soon as possible.",
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "placeholders": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john@example.com",
+        "subject": "Select a topic...",
+        "message": "How can we help you today?"
+      },
+      "subjects": {
+        "sales": "Sales Inquiry",
+        "support": "Support",
+        "partnership": "Partnership",
+        "other": "Other"
+      }
+    },
+    "mapViewComingSoon": "Map View Coming Soon"
+  },
+  "Footer": {
+    "company": "Company",
+    "about": "About Us",
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "connect": "Connect",
+    "copyright": "Fiutowski Apples. All rights reserved."
+  }
+}
