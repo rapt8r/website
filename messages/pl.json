@@ -76,7 +76,7 @@
     "address": "Adres",
     "country": "Polska",
     "businessHours": "Godziny Otwarcia",
-    "businessHoursValue": "Poniedziałek - Piątek: 8:00 - 18:00<br>Sobota: 9:00 - 14:00<br>Niedziela: Zamknięte",
+    "businessHoursValue": "Poniedziałek - Piątek: 8:00 - 18:00<br></br>Sobota: 9:00 - 14:00<br></br>Niedziela: Zamknięte",
     "formTitle": "Wyślij Wiadomość",
     "formSubtitle": "Wypełnij poniższy formularz, a skontaktujemy się z Tobą tak szybko, jak to możliwe.",
     "form": {

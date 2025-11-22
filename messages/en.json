@@ -76,7 +76,7 @@
     "address": "Address",
     "country": "Poland",
     "businessHours": "Business Hours",
-    "businessHoursValue": "Monday - Friday: 8:00 AM - 6:00 PM<br>Saturday: 9:00 AM - 2:00 PM<br>Sunday: Closed",
+    "businessHoursValue": "Monday - Friday: 8:00 AM - 6:00 PM<br></br>Saturday: 9:00 AM - 2:00 PM<br></br>Sunday: Closed",
     "formTitle": "Send us a Message",
     "formSubtitle": "Fill out the form below and we'll get back to you as soon as possible.",
     "form": {

@@ -11,9 +11,9 @@ export default function OurStory() {
     <section className="py-16 md:py-24 bg-white">
       <Container>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
-          <div className="relative h-[400px] w-full rounded-2xl overflow-hidden shadow-xl order-2 md:order-1">
+          <div className="relative h-[400px] w-full rounded-2xl overflow-hidden order-2 md:order-1">
             <Image
-              src="/story.webp"
+              src="https://upload.wikimedia.org/wikipedia/commons/1/16/Sad_wi%C5%9Bniowy_w_Piasecznie.jpg"
               alt="Our Story"
               fill
               className="object-cover hover:scale-105 transition-transform duration-700"

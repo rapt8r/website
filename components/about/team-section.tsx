@@ -6,20 +6,15 @@ import Image from "next/image"
 
 const teamMembers = [
   {
-    name: "Jan Fiutowski",
+    name: "Osoba 1",
     role: "Founder & Head Orchardist",
     image: "/team-1.webp"
   },
   {
-    name: "Maria Fiutowska",
+    name: "Osoba 2",
     role: "Quality Control Manager",
     image: "/team-2.webp"
   },
-  {
-    name: "Piotr Nowak",
-    role: "Logistics Director",
-    image: "/team-3.webp"
-  }
 ]
 
 export default function TeamSection() {
@@ -37,13 +32,13 @@ export default function TeamSection() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2">
           {teamMembers.map((member, index) => (
             <div 
               key={index} 
-              className="group bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100"
+              className="group rounded-xl overflow-hidden"
             >
-              <div className="relative h-80 w-full bg-gray-200 overflow-hidden">
+              <div className="relative h-80 w-full overflow-hidden">
                 {/* Placeholder for real images - using gray background if image missing */}
                 <div className="absolute inset-0 flex items-center justify-center text-gray-400">
                   <span className="text-6xl opacity-20">👤</span>
